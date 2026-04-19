@@ -19,7 +19,3 @@ I’m currently working on<br>Developing an AI-driven Student Performance Predic
 ### ✍️ Dev Thought
 > “Pressure doesn’t slow me down—it helps me deliver my best work.”
 
----
-[![](https://komarev.com/ghpvc/?username=techno4ansh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
