@@ -16,8 +16,8 @@ I’m currently working on<br>Developing an AI-driven Student Performance Predic
 ![](https://streak-stats.demolab.com/?user=techno4ansh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=techno4ansh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Thought
+> “Pressure doesn’t slow me down—it helps me deliver my best work.”
 
 ---
 [![](https://komarev.com/ghpvc/?username=techno4ansh&icon=0&color=0)](https://visitcount.itsvg.in)
